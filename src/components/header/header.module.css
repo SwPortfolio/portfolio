@@ -1,0 +1,19 @@
+
+.header {
+    height: 12vh;
+    background-color: #62e337;
+}
+
+.active {
+    color: blue;
+}
+
+.disable {
+    color: black;
+}
+
+.ci {
+    font-size: 2rem;
+    font-family: monospace;
+    color: white;
+}
